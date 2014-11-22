@@ -1,3 +1,3 @@
-== Blender-control
+## Blender-control
 
 See README-lang
