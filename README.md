@@ -1,3 +1,3 @@
 ### Blender-control
 
-See README-lang
+See README-TLD.md
