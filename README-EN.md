@@ -26,9 +26,9 @@
 #### Transformation
 * Alt + S => Convert to mash
 
-#### Výber
-* A => Vyber všetko
-* B => Vyber oblasti
+#### Select
+* A => Select all
+* B => Custom select
 
-#### Zobrazenie
-* Z => Plný / Drátový model
+#### View
+* Z => Full / Wireframe
