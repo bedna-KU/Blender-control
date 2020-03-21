@@ -5,7 +5,7 @@
 * Ctrl + Alt + Shift + C => Place Origin into 3D cursor
 
 #### Edit
-* Tabulátor => Object / Edit mode
+* Tab => Object / Edit mode
 * Ctrl + J => Connect objects into single object
 * F => Connect surface (edges)
 * S => Tension / Shrinking
